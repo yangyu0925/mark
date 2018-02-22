@@ -16,6 +16,8 @@
 14. [shell在手分析服务器日志不愁](https://segmentfault.com/a/1190000009745139)
 15. [Redis 命令参考](http://redisdoc.com/)
 16. [SQL语句转laravel](http://www.midnightcowboycoder.com/)
+17. [PHPer 面试指南](https://github.com/todayqq/PHPerInterviewGuide)
+
 
 
 
