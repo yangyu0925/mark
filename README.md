@@ -22,6 +22,7 @@
 20. [Docker从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/repository/dockerhub.html)
 21. [提高安全性的最佳 Nginx 配置](https://laravel-china.org/articles/9485/the-best-nginx-configuration-for-improving-security)
 22. [redis主从复制和集群实现原理](https://blog.csdn.net/nuli888/article/details/52136822)
+23. [PHP-FPM配置及使用总结](https://blog.csdn.net/why_2012_gogo/article/details/51112477)
 
 
 
