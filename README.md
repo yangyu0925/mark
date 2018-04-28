@@ -24,7 +24,7 @@
 22. [redis主从复制和集群实现原理](https://blog.csdn.net/nuli888/article/details/52136822)
 23. [PHP-FPM配置及使用总结](https://blog.csdn.net/why_2012_gogo/article/details/51112477) 
 24. [Laravel 应用中的角色和权限控制](https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission)
-
+25. [Laravel 测试技术](https://laravel-china.org/articles/10531/laravel-testing-technology)
 
 
 
