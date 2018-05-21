@@ -26,7 +26,7 @@
 24. [Laravel 应用中的角色和权限控制](https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission)
 25. [Laravel 测试技术](https://laravel-china.org/articles/10531/laravel-testing-technology)
 26. [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#%E4%BA%8C%E5%8F%89%E6%A0%91)
-
+27. [Laravel 5 code Tutorials](https://code.tutsplus.com/categories/laravel-5)
 
   
 
