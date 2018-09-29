@@ -36,8 +36,7 @@
 34. [一个非常适合IT团队的在线API文档、技术文档工具](https://www.showdoc.cc/web/#/) 
 35. [深入理解php内核](http://www.php-internals.com/book/?p=chapt03/03-02-const-var)
 36. [个人整理, 阅读过的好文章](https://laravel-china.org/topics/17232)        
-     
-       
+37. [在线培训系统](http://www.gensee.com/)
        
   
  
